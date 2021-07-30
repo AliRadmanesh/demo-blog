@@ -11,7 +11,7 @@ const About = ({ title, description, ...props }) => {
         </p>
 
         <p>
-          I am a very exciting person. I know this because I'm following a very exciting tutorial, and a not-exciting person wouldn't do that.
+          I am a very exciting person. I know this because I&apos;m following a very exciting tutorial, and a not-exciting person wouldn&apos;t do that.
         </p>
       </Layout>
     </>
